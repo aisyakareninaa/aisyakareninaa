@@ -12,7 +12,14 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=Aaisyakareninaa&theme=react-dark)
 
-
+<p align="center">
+	<a href="https://github.com/aisyakareninaa">
+		<img src="https://komarev.com/ghpvc/?username=nylaam&label=Profile%20views&color=0e75b6&style=flat" alt="aisyakareninaa" />
+	</a>
+	<a href="https://github.com/aisyakareninaa">
+		<img src="https://img.shields.io/github/followers/nylaam?label=Followers" alt="aisyakareninaa" />
+	</a>
+</p>
 
 <h5 align="center">Made With ❤️ by ice</h5>
 
