@@ -4,9 +4,9 @@
 
 <a href="https://www.youtube.com"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-🔭 My name is `Aisya Karenina Ramadhani`. I’m `18 years old`. 
+🔭 My name is `Aisya Karenina Ramadhani`. I’m `19 years old`. 
 
-🏫 I'm a `student at Telkom Malang Vocational High School`
+🏫 I'm a `Undergraduate Information System Student`
 
 ## My statistics 📈 <br>
 ![](https://github-readme-stats.vercel.app/api?username=aisyakareninaa&show_icons=true&theme=github_dark)
